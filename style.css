@@ -1,0 +1,14 @@
+p {
+    color: white;
+    outline: black;
+    text-shadow: 2px 2px 2px #000000; 
+}
+h1 {
+    color: white;
+    outline: black;
+    text-shadow: 2px 2px 2px #000000;
+}
+body {
+  background-image: url("background.png");
+  font-family: 'Courier New', monospace;
+}
