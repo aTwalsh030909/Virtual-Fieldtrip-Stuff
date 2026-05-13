@@ -29,7 +29,7 @@ async function checkPassword() {
 
         try {
             const r = await fetch(
-                'https://bugs-tabs-finals-represent.trycloudflare.com/webhook/grant-inventory-item',
+                'https://highways-rendering-lafayette-muze.trycloudflare.com/webhook/grant-inventory-item',
                 {
                     method: 'POST',
                     headers: {
